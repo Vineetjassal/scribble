@@ -42,7 +42,7 @@ export default function Home() {
         </CardContent>
       </Card>
 
-      <div className="hidden md:flex justify-center">
+      <div className="hidden md:flex justify-center mt-8 mb-8">
     <video autoPlay loop style={{ width: '980px', height: '470px' }} className="shadow-lg shadow-black rounded-lg dark:shadow-white">
         <source src="/scribbledemo.mp4" />
       </video>
