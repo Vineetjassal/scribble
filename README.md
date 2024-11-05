@@ -43,5 +43,5 @@ You can now play around with it.
 
 ## Demo
 
-![Project Demo](/scribbledemo.mp4)
+![Project Demo](./scribbledemo.mp4)
 
